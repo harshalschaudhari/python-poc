@@ -45,3 +45,4 @@ FastAPI is an emerging and relatively new web framework. If you are looking for 
 
 - FastAPI: https://fastapi.tiangolo.com/
 - Documentation Format: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- Cherry pick - https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-git-cherry-pick-from-another-branch-to-your-own
