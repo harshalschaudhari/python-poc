@@ -38,11 +38,10 @@ uvicorn PersonController:app --reload
 
 ```
 
-Conclusion
+## Conclusion
 FastAPI is an emerging and relatively new web framework. If you are looking for a fast, light-weight, high-performance web API framework for a web application, then FastAPI is the right choice.
 
-Reference 
+## Reference 
 
-FastAPI: https://fastapi.tiangolo.com/
-
-Documentation Format: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- FastAPI: https://fastapi.tiangolo.com/
+- Documentation Format: https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
